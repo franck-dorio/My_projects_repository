@@ -5,3 +5,8 @@ du programme de résolution. Le logiciel analyse des images du cube, détecte le
 End-to-end Rubik’s Cube solving robot, from 3D modelling and printing of the structure to electronics setup and implementation of the solving software.
 The program analyses images of the cube, detects the colours, reconstructs its internal state and then generates an optimised sequence of moves using a custom heuristic 
 norm I designed and a database of specific configurations with precomputed solutions.
+
+
+<video src="images/viedo_prez.mp4" controls width="600">
+  Votre navigateur ne supporte pas la vidéo.
+</video>
