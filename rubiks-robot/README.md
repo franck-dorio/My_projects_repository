@@ -7,6 +7,6 @@ The program analyses images of the cube, detects the colours, reconstructs its i
 norm I designed and a database of specific configurations with precomputed solutions.
 
 
-<video src="image/video_prez.mp4" controls width="600">
-  Votre navigateur ne supporte pas la vidéo.
-</video>
+![Texte alternatif](image/visuel.png)
+[Voir la vidéo](image/Video_prez.mp4)
+
