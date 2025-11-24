@@ -10,5 +10,7 @@ norm I designed and a database of specific configurations with precomputed solut
 
 <img width="316" height="328" alt="Capture d’écran 2025-11-24 à 14 54 24" src="https://github.com/user-attachments/assets/d8de46a0-78f5-487d-88f8-2f1bc52c2fef" />
 <img width="271" height="355" alt="Capture d’écran 2025-11-24 à 14 54 48" src="https://github.com/user-attachments/assets/c142f8c5-8f0d-478f-91aa-6cddcf7b1235" />
+
+
 https://github.com/user-attachments/assets/71c8d4e1-9cce-451b-a09e-eceec2273f11
 
