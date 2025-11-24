@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Style générique d'une touche (SANS layout_margin ici) -->
+    <style name="CalcKey" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/calc_key</item>
+        <item name="android:textColor">@color/calc_text</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="CalcKeySecondary" parent="CalcKey">
+        <item name="android:background">@color/calc_key_secondary</item>
+    </style>
+
+    <style name="CalcKeyAccent" parent="CalcKey">
+        <item name="android:background">@color/calc_accent</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>

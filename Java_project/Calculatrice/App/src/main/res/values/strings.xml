@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculette</string>
+    <string name="action_history">Historique</string>
+    <string name="action_clear">Effacer</string>
+    <string name="action_about">A propos</string>
+    <string name="about_text">Mini calculette API 23.</string>
+    <string name="error_syntax">Erreur de syntaxe</string>
+    <string name="title_history">Historique</string>
+    <string name="no_history">Aucun calcul pour le moment.</string>
+    <string name="err_syntax">Erreur de syntaxe</string>
+
+</resources>

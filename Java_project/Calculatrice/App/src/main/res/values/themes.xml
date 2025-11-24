@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thème attendu par le Manifest -->
+    <style name="Theme.Calculette" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Optionnel : barre de statut transparente -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
