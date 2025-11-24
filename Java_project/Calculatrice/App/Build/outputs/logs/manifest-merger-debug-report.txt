@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/franck/.gradle/caches/8.9/transforms/3aece7917917d1592db3d4034cc2696b/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/franck/.gradle/caches/8.9/transforms/97d95be18f1dab0674f564fcc81daf42/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/franck/.gradle/caches/8.9/transforms/95aac94b108dcaefd6b6ee0594e4cdf6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/franck/.gradle/caches/8.9/transforms/808067ae82524895e48272a6ade7fb6c/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/5ba9314a26afd7ab0eacec76ff4de428/transformed/gridlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/27d22830ad667d09815f8d89d0130ad6/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/franck/.gradle/caches/8.9/transforms/bea1e42a028854ad98aa89b9d98f32b6/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/franck/.gradle/caches/8.9/transforms/035aa19ff2fff13ac60fbb453721e64b/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/6532a93ad76d61469c60167da5c67339/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/4f91378a91079629c8b7202b23e08340/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/4594d4c12a3a5467765b460207047bdf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/0456ec296f989c4238fdebe11abdc058/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/2620cc05d9edd1c9ce966dbfc858febe/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/3114f2d3cecfe49d9860fc9f09aa6ea7/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/e686a9ed74f1c21b023dbccac39d76bd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/e01a7c7ad6a5bff5e501de317366275e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/e6e9c0ef295b505c7c088003d87739c3/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/bfc3c7cac2ab95b890889da53a66000f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/franck/.gradle/caches/8.9/transforms/fd3f815403aae8935f3ef44a62811dc3/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/4d62977172cb59328b04de0c60d23b23/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/400eaed360299ff37f79aead033c72bd/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/e84d6bf15f437a0f04e3c89b0d966fdc/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/a4582abb5ad79e6422a781d44780b3a5/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/03e169ccddda23b45a833b01cae0f866/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/ab12f6f95ca0e6f1cf08a79062f0d286/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/a503f7b0ab67aa5e074b972006cef90f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/782b5989c15cc853371d39ef4eccb89d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/8b02306ce373d2e11bf50e8506df6298/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/492e10a42681d227abda4c7acf755e0d/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/0da5d9b833598e116dc1611dd820298f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/107cbe7b53ee83812ae2a41d134c2b28/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/c7c00f627c6cf47b376fe950e30fdf68/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/ee77b81705ea76fe4545415b4a29eac5/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/c7811bdc0c0d589aec2bd05a4ddef356/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/861eb15b6c4a29d1f492e8d85fdbf835/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/87e0fe6f57696ccb5db1880b2eea0b7a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/474b0dff2c09ef1eeb86d524c23631e7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/franck/.gradle/caches/8.9/transforms/540c3e72092eebe67583a144749ba8b1/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/1e98e8744a772ab1409c06b5fb6a7ddf/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/a25ff204ec0717bda94b9278804f6f6c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/52f35ab85655c6aa8304a5c3d9405d53/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/74dd08fd9e1b6bae3e4fd4e05c66da08/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:4:5-28:19
+INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:4:5-28:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/franck/.gradle/caches/8.9/transforms/3aece7917917d1592db3d4034cc2696b/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/franck/.gradle/caches/8.9/transforms/3aece7917917d1592db3d4034cc2696b/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/franck/.gradle/caches/8.9/transforms/97d95be18f1dab0674f564fcc81daf42/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/franck/.gradle/caches/8.9/transforms/97d95be18f1dab0674f564fcc81daf42/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/c7811bdc0c0d589aec2bd05a4ddef356/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/c7811bdc0c0d589aec2bd05a4ddef356/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/861eb15b6c4a29d1f492e8d85fdbf835/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/861eb15b6c4a29d1f492e8d85fdbf835/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:10:9-48
+activity#com.example.calculette_final.HistoryActivity
+ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:13:9-16:40
+	android:label
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:15:13-50
+	android:exported
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:14:13-44
+activity#com.example.calculette_final.MainActivity
+ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:exported
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml
+INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] /Users/franck/.gradle/caches/8.9/transforms/3aece7917917d1592db3d4034cc2696b/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/franck/.gradle/caches/8.9/transforms/3aece7917917d1592db3d4034cc2696b/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/franck/.gradle/caches/8.9/transforms/97d95be18f1dab0674f564fcc81daf42/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/franck/.gradle/caches/8.9/transforms/97d95be18f1dab0674f564fcc81daf42/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/franck/.gradle/caches/8.9/transforms/95aac94b108dcaefd6b6ee0594e4cdf6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/franck/.gradle/caches/8.9/transforms/95aac94b108dcaefd6b6ee0594e4cdf6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/franck/.gradle/caches/8.9/transforms/808067ae82524895e48272a6ade7fb6c/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/franck/.gradle/caches/8.9/transforms/808067ae82524895e48272a6ade7fb6c/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/5ba9314a26afd7ab0eacec76ff4de428/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/5ba9314a26afd7ab0eacec76ff4de428/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/27d22830ad667d09815f8d89d0130ad6/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/27d22830ad667d09815f8d89d0130ad6/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/franck/.gradle/caches/8.9/transforms/bea1e42a028854ad98aa89b9d98f32b6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/franck/.gradle/caches/8.9/transforms/bea1e42a028854ad98aa89b9d98f32b6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/franck/.gradle/caches/8.9/transforms/035aa19ff2fff13ac60fbb453721e64b/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/franck/.gradle/caches/8.9/transforms/035aa19ff2fff13ac60fbb453721e64b/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/6532a93ad76d61469c60167da5c67339/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/6532a93ad76d61469c60167da5c67339/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/4f91378a91079629c8b7202b23e08340/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/4f91378a91079629c8b7202b23e08340/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/4594d4c12a3a5467765b460207047bdf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/4594d4c12a3a5467765b460207047bdf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/0456ec296f989c4238fdebe11abdc058/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/0456ec296f989c4238fdebe11abdc058/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/2620cc05d9edd1c9ce966dbfc858febe/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/2620cc05d9edd1c9ce966dbfc858febe/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/3114f2d3cecfe49d9860fc9f09aa6ea7/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/3114f2d3cecfe49d9860fc9f09aa6ea7/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/e686a9ed74f1c21b023dbccac39d76bd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/e686a9ed74f1c21b023dbccac39d76bd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/e01a7c7ad6a5bff5e501de317366275e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/e01a7c7ad6a5bff5e501de317366275e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/e6e9c0ef295b505c7c088003d87739c3/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/e6e9c0ef295b505c7c088003d87739c3/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/bfc3c7cac2ab95b890889da53a66000f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/bfc3c7cac2ab95b890889da53a66000f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/franck/.gradle/caches/8.9/transforms/fd3f815403aae8935f3ef44a62811dc3/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/franck/.gradle/caches/8.9/transforms/fd3f815403aae8935f3ef44a62811dc3/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/4d62977172cb59328b04de0c60d23b23/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/4d62977172cb59328b04de0c60d23b23/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/400eaed360299ff37f79aead033c72bd/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/400eaed360299ff37f79aead033c72bd/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/e84d6bf15f437a0f04e3c89b0d966fdc/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/e84d6bf15f437a0f04e3c89b0d966fdc/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/a4582abb5ad79e6422a781d44780b3a5/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/a4582abb5ad79e6422a781d44780b3a5/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/03e169ccddda23b45a833b01cae0f866/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/03e169ccddda23b45a833b01cae0f866/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/ab12f6f95ca0e6f1cf08a79062f0d286/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/ab12f6f95ca0e6f1cf08a79062f0d286/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/a503f7b0ab67aa5e074b972006cef90f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/a503f7b0ab67aa5e074b972006cef90f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/782b5989c15cc853371d39ef4eccb89d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/782b5989c15cc853371d39ef4eccb89d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/8b02306ce373d2e11bf50e8506df6298/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/8b02306ce373d2e11bf50e8506df6298/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/492e10a42681d227abda4c7acf755e0d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/franck/.gradle/caches/8.9/transforms/492e10a42681d227abda4c7acf755e0d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/0da5d9b833598e116dc1611dd820298f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/0da5d9b833598e116dc1611dd820298f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/107cbe7b53ee83812ae2a41d134c2b28/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/107cbe7b53ee83812ae2a41d134c2b28/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/c7c00f627c6cf47b376fe950e30fdf68/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/c7c00f627c6cf47b376fe950e30fdf68/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/ee77b81705ea76fe4545415b4a29eac5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/ee77b81705ea76fe4545415b4a29eac5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/c7811bdc0c0d589aec2bd05a4ddef356/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/c7811bdc0c0d589aec2bd05a4ddef356/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/861eb15b6c4a29d1f492e8d85fdbf835/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/861eb15b6c4a29d1f492e8d85fdbf835/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/87e0fe6f57696ccb5db1880b2eea0b7a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/87e0fe6f57696ccb5db1880b2eea0b7a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/474b0dff2c09ef1eeb86d524c23631e7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/474b0dff2c09ef1eeb86d524c23631e7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/franck/.gradle/caches/8.9/transforms/540c3e72092eebe67583a144749ba8b1/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/franck/.gradle/caches/8.9/transforms/540c3e72092eebe67583a144749ba8b1/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/1e98e8744a772ab1409c06b5fb6a7ddf/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/1e98e8744a772ab1409c06b5fb6a7ddf/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/a25ff204ec0717bda94b9278804f6f6c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/a25ff204ec0717bda94b9278804f6f6c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/52f35ab85655c6aa8304a5c3d9405d53/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/franck/.gradle/caches/8.9/transforms/52f35ab85655c6aa8304a5c3d9405d53/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/74dd08fd9e1b6bae3e4fd4e05c66da08/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/74dd08fd9e1b6bae3e4fd4e05c66da08/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/franck/calculette_final/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/861eb15b6c4a29d1f492e8d85fdbf835/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/franck/.gradle/caches/8.9/transforms/861eb15b6c4a29d1f492e8d85fdbf835/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/franck/.gradle/caches/8.9/transforms/c99889cbbef2ac4c6576da5039d50ba2/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/franck/.gradle/caches/8.9/transforms/add95c54f57d0fa23ca7f4bcd0388250/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.calculette_final.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.calculette_final.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/franck/.gradle/caches/8.9/transforms/666c157485865805027ad2896583524c/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/franck/.gradle/caches/8.9/transforms/20019146b32103db9c06041cb31f0881/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
